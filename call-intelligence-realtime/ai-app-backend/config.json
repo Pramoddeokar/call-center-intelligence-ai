@@ -1,0 +1,14 @@
+[
+    {
+        "name": "speech",
+        "speech_subscription_key": "52b92c7f013d4c0ab8ba00f28d601772",
+        "speech_region": "eastus",
+        "speech_custom_endpoint_id_optional": "https://eastus.api.cognitive.microsoft.com",
+        "text_analytics_key": "52b92c7f013d4c0ab8ba00f28d601772",
+        "text_analytics_endpoint": "https://csia-service.cognitiveservices.azure.com/",
+        "openai_endpoint": "https://csia-service.cognitiveservices.azure.com/",
+        "openai_key": "52b92c7f013d4c0ab8ba00f28d601772",
+        "openai_deployment_name": "OPENAI_DEPLOYMET_FROM_OPENAI_STUDIO",
+        "web_port": "8088"
+    }
+]
